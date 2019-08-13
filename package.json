@@ -1,0 +1,32 @@
+{
+  "name": "horizon-boilerplate",
+  "version": "1.0.0",
+  "description": "Free, open source dashboard with NextJS, ReactJS, ReduxJS and TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianfrommixture/horizon-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "Brian <brian@mixture.gg>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brianfrommixture/horizon-boilerplate/issues"
+  },
+  "homepage": "https://github.com/brianfrommixture/horizon-boilerplate#readme",
+  "dependencies": {
+    "next": "^9.0.3",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.1",
+    "@types/react": "^16.9.1",
+    "typescript": "^3.5.3"
+  }
+}
